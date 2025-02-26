@@ -1,5 +1,7 @@
 # Secure-File-Encryption-Tool
 The Secure File Encryption Tool is a user-friendly application designed to protect sensitive files by encrypting and decrypting them using the AES-256 encryption algorithm, Built with Python and Tkinter.
+
+# Key Features
 ✅ AES-256 Encryption – Ensures strong security for files using CBC mode.
 ✅ File Integrity Protection – Prevents unauthorized modifications.
 ✅ Password-Based Encryption – Uses PBKDF2 key derivation to strengthen security.
@@ -8,7 +10,7 @@ The Secure File Encryption Tool is a user-friendly application designed to prote
 ✅ Secure File Browsing – Allows users to easily select files for processing.
 ✅ Standalone Executable – Can be converted into a .exe file for easy distribution.
 
-How It Works:
+# How It Works:
 User selects a file through the Browse button.
 User enters a password for encryption/decryption.
 Click "Encrypt" or "Decrypt" to process the file.
